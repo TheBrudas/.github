@@ -10,7 +10,7 @@ We are the dynamic duo of the tech world, the unstoppable force of innovation, t
 - **Ghazz**: The strategist, the planner, the one who sees the matrix and bends it to our will.
 - **Eminjay**: The visionary, the coder extraordinaire, the one who turns caffeine into code.
 
-![giphy](https://github.com/TheBrudas/.github/assets/33843358/c445641b-e64d-44be-87d8-e8442885a98a)
+![giphy](https://github.com/TheBrudas/.github/assets/33843358/29b658f2-ac63-44a5-a707-d270d9e58d00)
 
 ### What We Do
 At Brudas Organization, we don't just solve problems; we obliterate them. We take on challenges with the ferocity of a tiger and the precision of a Swiss watch. Whether it's building the next big app, cracking the toughest algorithm, or simply making the digital world a better place, we're on it.
